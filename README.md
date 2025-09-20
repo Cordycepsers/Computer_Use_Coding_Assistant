@@ -1,5 +1,7 @@
-<img src="scripts/coding-assistant.png" alt="Coding Assistant Preview" width="800"/>
 
+<div align="center">
+  <img src="scripts/coding-assistant.png" alt="Hero Image" width="800"/>
+</div>
 
 # 🤖 Computer Use Coding Assistant
 
