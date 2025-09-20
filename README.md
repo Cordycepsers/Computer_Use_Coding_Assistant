@@ -1,4 +1,4 @@
-![Coding Assistant Preview](scripts/Coding Assistant.png)
+![Coding Assistant Preview](scripts/coding-assistant.png)
 
 # 🤖 Computer Use Coding Assistant
 
