@@ -1,4 +1,5 @@
-![Coding Assistant Preview](scripts/coding-assistant.png)
+<img src="scripts/coding-assistant.png" alt="Coding Assistant Preview" width="800"/>
+
 
 # 🤖 Computer Use Coding Assistant
 
