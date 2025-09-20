@@ -1,6 +1,6 @@
 # 🤖 Computer Use Coding Assistant
 
-An AI-powered coding assistant that can control your computer, write code, debug issues, and automate development tasks using Claude's Computer Use capabilities.
+An AI-powered coding assistant that can control your computer, write code, debug issues, and automate development tasks.
 
 ## 🚀 Features
 
