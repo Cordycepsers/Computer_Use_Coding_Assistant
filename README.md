@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="scripts/coding-assistant.png" alt="Hero Image" width="800"/>
+  <img src="scripts/coding-assistant.png" alt="Hero Image" width="1280"/>
 </div>
 
 # 🤖 Computer Use Coding Assistant
